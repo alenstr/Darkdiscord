@@ -1,0 +1,2 @@
+# Darkdiscord
+Betterdiscord theme
